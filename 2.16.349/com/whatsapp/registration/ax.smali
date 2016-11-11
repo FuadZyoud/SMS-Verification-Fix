@@ -407,7 +407,7 @@
     goto/16 :goto_0
 
     :cond_a
-    nvoke-static {}, Lcom/JoMods/SVF;->a()[B
+    invoke-static {}, Lcom/JoMods/SVF;->a()[B
 
     move-result-object v0
 
